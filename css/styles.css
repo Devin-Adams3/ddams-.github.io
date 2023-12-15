@@ -35,7 +35,8 @@ header {
     text-align: center;
     border: 1px solid #888888;
     box-shadow: 15px 15px 5px 0 #888888;
-    border-radius: 25px;  	
+    border-radius: 25px; 
+	background-color: Black;
 }
 
 nav {
@@ -115,9 +116,9 @@ footer {
     width: 910px;
     margin: 0;
     padding: 10px;
-    background-color: gray;
+    background-color: Black;
     clear: both;
-    color: wheat;
+    color: #35a7e9;
     font-weight: bold;
     text-align: center;
 	border-bottom-left-radius: 25px;
@@ -136,7 +137,7 @@ footer a:link {
 }
 
 footer a:visited {
-    color: navy;
+    color: White;
     background-color: grey;
     text-decoration: none;
 }
